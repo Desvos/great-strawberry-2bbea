@@ -15,7 +15,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: Blameless
     subtitle: 'Let us to know you, as your children know you'
     features:
       - title: The Best Feature of Your Services
