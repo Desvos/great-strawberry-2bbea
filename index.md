@@ -6,9 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: The best place for engage your projects
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: |
+      A young "environment" for your projects with a fresh approach
     actions:
       - label: Learn More
         url: /features
