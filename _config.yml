@@ -5,7 +5,7 @@ collections:
   posts:
     permalink: '/posts/:title/'
 base_font: nunito-sans
-palette: orange
+palette: green
 header:
   logo_img: images/perpetual-bee.png
   logo_img_alt: Logo
