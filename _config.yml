@@ -32,7 +32,8 @@ footer:
       image: images/curious-lime.png
       image_url: /
       image_alt: Footer logo
-      content: Stackbit theme demo
+      content: |
+        For your elastic projects
       title: ''
     - type: footer_nav
       title: Company
