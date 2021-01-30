@@ -43,6 +43,9 @@
 .widget-image {
   display: block;
   margin-bottom: 0.75em;
+  img {
+    max-height: 40px;
+  }
 }
 
 .widget-title {
