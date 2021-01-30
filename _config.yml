@@ -7,7 +7,7 @@ collections:
 base_font: nunito-sans
 palette: blue
 header:
-  logo_img: images/4.png
+  logo_img: images/4.1.png
   logo_img_alt: Logo
   has_nav: true
   nav_links:
@@ -29,7 +29,7 @@ header:
 footer:
   sections:
     - type: footer_text
-      image: images/4_footer.png
+      image: images/4_footer_2.png
       image_url: /
       image_alt: Footer logo
       content: |
