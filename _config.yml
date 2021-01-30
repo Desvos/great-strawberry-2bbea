@@ -29,7 +29,7 @@ header:
 footer:
   sections:
     - type: footer_text
-      image: images/22_cutted_footer.png
+      image: images/pleasant-owl.png
       image_url: /
       image_alt: Footer logo
       content: |
