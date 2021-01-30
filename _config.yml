@@ -29,7 +29,7 @@ header:
 footer:
   sections:
     - type: footer_text
-      image: images/curious-lime.png
+      image: images/2_cutted.png
       image_url: /
       image_alt: Footer logo
       content: |
