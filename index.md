@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: The best place for engage your projects
+    title: The best place to engage your projects
     content: |
       A young "environment" for your projects with a fresh approach
     actions:
